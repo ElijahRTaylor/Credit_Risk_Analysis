@@ -14,67 +14,67 @@ Here are the results for reach model.
 
 ### Naive Random Oversampling
 
-Accuracy Score :0.6456130066757718
-Precision High Risk: 0.01
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.61
-Sensitivity Low Risk: 0.68
-F1 Score High Risk: 0.02
+Accuracy Score :0.6456130066757718</br>
+Precision High Risk: 0.01</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.61</br>
+Sensitivity Low Risk: 0.68</br>
+F1 Score High Risk: 0.02</br>
 F1 Score Low Risk: 0.81
 
 
 ### SMOTE Oversampling
 
-Accuracy Score : 0.6234433606890912
-Precision High Risk: 0.01
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.61
-Sensitivity Low Risk: 0.64
-F1 Score High Risk: 0.02
+Accuracy Score : 0.6234433606890912 </br>
+Precision High Risk: 0.01</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.61</br>
+Sensitivity Low Risk: 0.64</br>
+F1 Score High Risk: 0.02</br>
 F1 Score Low Risk: 0.78
 
 ### Undersampling
 
-Accuracy Score : 0.5134421923283014
-Precision High Risk: 0.01
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.61
-Sensitivity Low Risk: 0.42
-F1 Score High Risk: 0.01
-F1 Score Low Risk: 0.59
+Accuracy Score : 0.5134421923283014 </br>
+Precision High Risk: 0.01</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.61</br>
+Sensitivity Low Risk: 0.42</br>
+F1 Score High Risk: 0.01</br>
+F1 Score Low Risk: 0.59</br>
 
 ### Combination (Over and Under) Sampling
 
 
-Accuracy Score : 0.6531287896185101
-Precision High Risk: 0.01
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.69
-Sensitivity Low Risk: 0.62
-F1 Score High Risk: 0.02
-F1 Score Low Risk: 0.76
+Accuracy Score : 0.6531287896185101</br>
+Precision High Risk: 0.01</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.69</br>
+Sensitivity Low Risk: 0.62</br>
+F1 Score High Risk: 0.02</br>
+F1 Score Low Risk: 0.76</br>
 
 
 ## Ensemble
 
 ### Balanced Random Forest Classifier
 
-Accuracy Score : 0.7877672625306695
-Precision High Risk: 0.04
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.67
-Sensitivity Low Risk: 0.91
-F1 Score High Risk: 0.07
+Accuracy Score : 0.7877672625306695</br>
+Precision High Risk: 0.04</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.67</br>
+Sensitivity Low Risk: 0.91</br>
+F1 Score High Risk: 0.07</br>
 F1 Score Low Risk: 0.95
 
 ### Easy Ensemble AdaBoost Classifier
 
-Accuracy Score : 0.925427358175101
-Precision High Risk: 0.07
-Precision Low Risk: 1.00
-Sensitivity High Risk: 0.91
-Sensitivity Low Risk: 0.94
-F1 Score High Risk: 0.14
+Accuracy Score : 0.925427358175101</br>
+Precision High Risk: 0.07</br>
+Precision Low Risk: 1.00</br>
+Sensitivity High Risk: 0.91</br>
+Sensitivity Low Risk: 0.94</br>
+F1 Score High Risk: 0.14</br>
 F1 Score Low Risk: 0.97
 
 
